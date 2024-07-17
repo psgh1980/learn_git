@@ -1,1 +1,2 @@
 example text 3
+added text
