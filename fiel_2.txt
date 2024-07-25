@@ -1,1 +1,2 @@
 example text 2
+added line 2
